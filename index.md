@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# jarvis.ai
 
-You can use the [editor on GitHub](https://github.com/Adityaminz18/jarvis.ai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+JarvisAI is fully made up of Python. Developed for a school Computer science project to showcase How a python based code can be deployed as an automation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Added Speech Recognition.
+2. Added Automation of Wikipedia Results.
+3. Added Web browser automation.
+4. Added [MailSpoofer](https://github.com/Adityaminz18/mailspoofer) module from my repository. (which requires manual credentials entry)
+5. Will be adding some more features! 
+## Installation
 
-### Markdown
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required modules.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+git clone https://github.com/Adityaminz18/jarvis.ai 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adityaminz18/jarvis.ai/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```bash
+pip3 install -r requirements.txt && python3 jarvis.py
+```
