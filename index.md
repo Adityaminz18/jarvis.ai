@@ -7,7 +7,7 @@ JarvisAI is fully made up of Python. Developed for a school Computer science pro
 3. Added Web browser automation.
 4. Added [MailSpoofer](https://github.com/Adityaminz18/mailspoofer) module from my repository. (which requires manual credentials entry)
 5. Will be adding some more features! 
-## Installation
+# Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required modules.
 
