@@ -5,7 +5,7 @@ JarvisAI is fully made up of Python. Developed for a school Computer science pro
 1. Added Speech Recognition.
 2. Added Automation of Wikipedia Results.
 3. Added Web browser automation.
-4. Added [MailSpoofer](https://github.com/Adityaminz18/mailspoofer) module from my repository. (which requires manual credentials entry)
+4. Added [MailSpoofer](https://mailspoofer.administration.ga/) module from my repository. (which requires manual credentials entry)
 5. Will be adding some more features! 
 # Installation
 
