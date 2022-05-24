@@ -18,5 +18,5 @@ git clone https://github.com/Adityaminz18/jarvis.ai
 ```bash
 pip3 install -r requirements.txt && python3 jarvis.py
 ```
-## Official website
+## Official Website
 [WEBSITE](https://jarvis.administration.ga/)
